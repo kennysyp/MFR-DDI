@@ -1,6 +1,6 @@
-# MHIF-DDI
+# MFR-DDI
 
-Molecular Hierarchical Information Fusion Network for Drug-Drug Interaction Prediction
+A Molecular Fragment Representation Learning Framework for Drug-Drug Interaction Prediction
 
 # Requirements
 
